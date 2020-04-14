@@ -1,0 +1,5 @@
+html {
+  background: url("image.png") no-repeat center fixed;
+  background-size: cover;
+  font-family: Helvetica, sans-serif;
+}
